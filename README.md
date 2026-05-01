@@ -63,10 +63,10 @@ http://localhost:8080
 
 ## Features
 
-- ✅ Create, Read, Update operations for Customers & Orders
-- ✅ INNER JOIN custom query between Orders and Customers
-- ✅ Form validation with error messages
-- ✅ Exception handling for data integrity violations
-- ✅ 10 sample records pre-populated in each table
-- ✅ Modern glassmorphism UI with CSS styling
-- ✅ Unit tests with JUnit 5 and Mockito
+-  Create, Read, Update operations for Customers & Orders
+-  INNER JOIN custom query between Orders and Customers
+-  Form validation with error messages
+-  Exception handling for data integrity violations
+-  10 sample records pre-populated in each table
+-  Modern glassmorphism UI with CSS styling
+-  Unit tests with JUnit 5 and Mockito
